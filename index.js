@@ -13,4 +13,4 @@ for (let i = 0; i < limites.length; i++) {
 }
 
 nivel = nivel || "Radiante";
-console.log("O heroi de nome **{nomeHeroi}** está no nível de **{xpDoHeroi}**")
+console.log(`O Herói de nome ${nomeHeroi} está no nível de ${xpDoHeroi}`);
